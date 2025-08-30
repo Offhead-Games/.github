@@ -5,3 +5,4 @@ it has no release date yet, it doesn't even have a name, but it definitely will 
 
 The main dev of the game is [poison](https://github.com/2x10) and is getting help from [gco](https://github.com/gcoX3-boop), [noctirn](https://www.instagram.com/schoreae/) and [amnesia](https://github.com/cherrynervosa) for assets and sprites.
 
+[lucille, the main character](https://github.com/Offhead-Games/.github/blob/main/lucille.gif?raw=true)
